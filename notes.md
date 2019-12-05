@@ -16,4 +16,9 @@ Do one thing really well. Only one reason to change.
 
 - extract configuration into environment variables
 - setup Continuos Deployment from Github to Heroku.
-    -
+    - commit and pust to Github and the api gets updated on Heroku.
+
+## Switching Remotes
+- `git remote set-url origin url to new empty repository on GH`
+- `git remote -v` to see where your remotes point
+`
